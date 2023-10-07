@@ -1,6 +1,8 @@
-# Dymension
+# DYMENSION
 
-# Rollapp kullanım
+# Rollapp kullanımı
+![image](https://github.com/zeycan1/Dymension/assets/108004368/aded5732-4ce3-42a0-965c-9f9ed6e41267)
+
 
 ## Önce etkileşime geçmek istediğiniz rollapp'ın sayfasına gidip Keplr ve metamask cüzdanlarımız ile  bağlanıyoruz.
 
@@ -34,10 +36,10 @@
 ## Şimdi de metamasktan keplre yine her iki tokeni yolluyoruz.
 ![image](https://github.com/zeycan1/Dymension/assets/108004368/9fc2a2f1-3bae-4847-a173-a09599301b10)
 
-## Şimdilik işlemler bu kadar.Artık bribirimiz takip edip rollapplarında işlem yapalım.
+## Şimdilik işlemler bu kadar.Artık birbirimizi takip edip rollapplarında işlem yapalım.
 
 ## Benim adresim https://portal.dymension.xyz/rollapp/zeycan_3437501-1  
-## Benim rollapp ile işlem yapardsanız çok sevinirim.
+## Benim rollapp ile işlem yaparsanız çok sevinirim.
 ## Bir de forklayıp yıldızlarsanız beni çok mutlu edersiniz :)
 
 
